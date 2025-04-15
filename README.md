@@ -1,3 +1,3 @@
 # Lab 2 - Starter
 
-git push origin main
+Github Page Lab2: https://meimanteng.github.io/Lab2_Starter/
